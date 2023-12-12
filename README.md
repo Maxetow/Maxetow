@@ -18,7 +18,7 @@ Made a print"Hello world"
 <!-- BLOG-POST-LIST:END -->
 
 ---
-[<img align="left" alt="Discord" width="100px" src="https://img.shields.io/badge/Discord-_?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=%235865F2" style="padding-right:5px;" />][webdevplaylist]
+[<img align="left" alt="Discord" width="100px" src="https://img.shields.io/badge/Discord-_?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=%235865F2" style="padding-right:5px;" />][Discord]
 [<img align="left" alt="Visual Studio Code" width="65px" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white&logo=Python&logoColor=white" style="padding-right:5px;" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" width="85px" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white&logo=Python&logoColor=white&logo=Python&logoColor=white" style="padding-right:5px;" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" width="60px" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white&logo=PyCharm&logoColor=white&logo=Python&logoColor=white&logo=Python&logoColor=white" style="padding-right:5px;" />][webdevplaylist]
@@ -35,7 +35,7 @@ Made a print"Hello world"
 
 </details>
 
-[website]: jjcjcn
+[Discord]: https://discord.com/
 [course]: http://
 [twitter]: https://
 [youtube]: https://
