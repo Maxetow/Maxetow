@@ -30,7 +30,7 @@ I'm passionate about building tools that educate and empower, especially around 
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![Email](https://img.shields.io/badge/email-max@example.com-darkgreen?style=for-the-badge&logo=gmail&logoColor=white)](mailto:max@example.com)
 
 ---
